@@ -1,13 +1,7 @@
 Basic Concepts
-Hello World Component
-Objective: Develop a React component named Greeting that displays "Hello, World!" using an 
-<h1> tag.
-Nested Components
-Objective: Create a Container component that renders two child components, Header and Footer, 
-each containing respective greetings.
-JSX List Rendering
-Objective: Build a FruitList component that uses JSX to render an array of fruit names as an 
-unordered list.
+Hello World ComponentObjective: Develop a React component named Greeting that displays "Hello, World!" using an <h1> tag.
+Nested Components Objective: Create a Container component that renders two child components, Header and Footer, each containing respective greetings.
+JSX List Rendering Objective: Build a FruitList component that uses JSX to render an array of fruit names as an unordered list.
 Props in Components
 Objective: Design a UserProfile component that receives a user object as props and displays the 
 user's name and age.
