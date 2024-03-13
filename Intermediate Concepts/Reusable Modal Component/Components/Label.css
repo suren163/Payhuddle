@@ -1,0 +1,21 @@
+/* You can modify these styles according to your preferences */
+
+div {
+    font-size: 18px;
+    color: #333; /* Default text color */
+    margin-bottom: 5px;
+  }
+  
+  /* Additional styling options */
+  /* You can add more styles like font-weight, text-align, etc. */
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  /* You can define more classes for different styles if needed */
+  
